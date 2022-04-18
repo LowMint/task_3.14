@@ -11,8 +11,11 @@ LICENSE: [MIT](/license.md)
 * [Установка](./installation.md)
 * Основные команды
   * [git add](./add.md)
-  *  
-
+  * [git init](./git_init.md)
+  * [git status](./git_status.md)
+  * [git commit](./git_commit.md)
+  * [git brach](./git_branch.md)
+  *
 ---
 
 
