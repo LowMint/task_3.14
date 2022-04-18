@@ -15,7 +15,12 @@ LICENSE: [MIT](/license.md)
   * [git status](./git_status.md)
   * [git commit](./git_commit.md)
   * [git brach](./git_branch.md)
-  *
+  * [git checkout](./git_checkout.md)
+  * [git config](./git_config.md)
+  * [git merge](./git_merge.md)
+  * [git clone](./git_clone.md)
+  * [git pull](./git_pull.md)
+  * [git push](./git_push.md)
 ---
 
 
